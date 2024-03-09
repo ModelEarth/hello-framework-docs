@@ -2,7 +2,8 @@
 
 In this test, the "dist" folder was renamed to "docs" so Github Pages could be pointed into it.
 
-Test result: Formating broken. Supporting files may be needed external to the static files.  
+Test result: Formating broken. Supporting files may be needed external to the static files.
+
 [model.earth/hello-framework-docs](https://model.earth/hello-framework-docs)
 
 If we figure this out, the copied static files can reside at the URL root of the repo.
