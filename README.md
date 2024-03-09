@@ -2,7 +2,7 @@
 
 In this test, the "dist" folder was renamed to "docs" so Github Pages could be pointed into it.
 
-Test result: Formating broken. Supporting files may be needed external to the static files.
+Test result: Works! Had to trigger the change by deploy (ran the action).
 
 [model.earth/hello-framework-docs](https://model.earth/hello-framework-docs)
 
