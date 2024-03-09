@@ -1,6 +1,6 @@
-## Hello Framework - dist in docs folder test
+## Hello Framework - dist in docs folder
 
-In this example, the "dist" folder was renamed to "docs" so Github Pages could be pointed into it.
+In this test, the "dist" folder was renamed to "docs" so Github Pages could be pointed into it.
 
 This allows the static files to reside at the URL root of the repo.
 
