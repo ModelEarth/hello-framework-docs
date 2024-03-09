@@ -10,4 +10,4 @@ Test result: Formating broken. Supporting files may be needed external to the st
 
 [model.earth/hello-framework-docs](https://model.earth/hello-framework-docs)
 
-[Related Posts](https://github.com/observablehq/framework/discussions/1030)
+[Related Posts](https://github.com/observablehq/framework/discussions/1030) - [Test in root](https://github.com/ModelEarth/hello-framework-root/)
