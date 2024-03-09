@@ -1,6 +1,4 @@
-# Observable Docs Test
-
-## Hello Framework - dist in docs folder
+## Hello Framework - dist in docs folder test
 
 In this example, the "dist" folder was renamed to "docs" so Github Pages could be pointed into it.
 
